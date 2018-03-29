@@ -1,2 +1,4 @@
 # ComputerVision
-#Smile_Detect.py allows faces, eyes and smiles to be detected by using opencv libraries. The user´s webcam is used with this purpose. 
+In order for the different modules to be run, it is needed to have python 3.6 and opencv installed. 
+
+#Face Recognition includes a simple code where by using some of opencv libraries, the user can detect faces, eyes and smiles with the help of a webcam.  
